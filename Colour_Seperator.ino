@@ -62,3 +62,5 @@ void loop() {
   Serial.print(frequency);//printing RED color frequency
   Serial.println("  ");
   delay(100);
+
+}
